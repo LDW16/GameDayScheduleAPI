@@ -1,5 +1,7 @@
 # Sports API Management System
 
+## **![Project Guide by REXTECH](https://www.youtube.com/watch?v=sF9_YzOrmTs&t=649s)**
+
 ## **Project Overview**
 This project demonstrates building a containerized API management system for querying sports data. It leverages **Amazon ECS (Fargate)** for running containers, **Amazon API Gateway** for exposing REST endpoints, and an external **Sports API** for real-time sports data. The project showcases advanced cloud computing practices, including API management, container orchestration, and secure AWS integrations.
 
